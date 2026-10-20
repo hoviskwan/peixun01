@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "receiptId": "requirements:1",
+  "receiptType": "requirements-baseline",
+  "specId": "general-application-development-spec",
+  "graphRevision": 5,
+  "actionId": "requirements",
+  "inputRevision": 0,
+  "stateVersion": 1,
+  "outcome": "passed",
+  "contentHash": "sha256:b268b66fe18b3e118b370210577a0b6381addbc0beb2921e8e71512a8a50a4a3",
+  "createdAt": "2026-10-20T07:38:21.150Z",
+  "timing": {
+    "startedAt": "2026-10-20T07:35:51.853Z",
+    "completedAt": "2026-10-20T07:38:21.150Z",
+    "durationMs": 149297
+  },
+  "artifacts": [
+    {
+      "path": "docs/wi-t1000021/requirements.md",
+      "bytes": 7988,
+      "sha256": "sha256:6159b6fbb5f8582cbace22defe6b3b3ebb76ef61674d2f11343d36f97a85f217",
+      "title": "客户跟进管理应用 · 需求文档"
+    }
+  ],
+  "verification": [
+    {
+      "checkId": "requirements:completion",
+      "status": "passed"
+    }
+  ]
+}
