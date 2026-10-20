@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "receiptId": "design:2",
+  "receiptType": "architecture-plan",
+  "specId": "general-application-development-spec",
+  "graphRevision": 5,
+  "actionId": "design",
+  "inputRevision": 1,
+  "stateVersion": 2,
+  "outcome": "passed",
+  "contentHash": "sha256:d9f8e45bc69f4b6064be9fb556c2ebcab58a3ae6063a7af0a668e714952faf22",
+  "createdAt": "2026-10-20T07:57:06.615Z",
+  "timing": {
+    "startedAt": "2026-10-20T07:55:38.621Z",
+    "completedAt": "2026-10-20T07:57:06.614Z",
+    "durationMs": 87993
+  },
+  "artifacts": [
+    {
+      "path": "docs/wi-t1000021/architecture-baseline.md",
+      "bytes": 3085,
+      "sha256": "sha256:25689dd556b0793e01f133e6a07887f2673d52b455708efb8cb86e16065143a7",
+      "title": "客户跟进管理应用 · 架构基线"
+    }
+  ],
+  "verification": [
+    {
+      "checkId": "design:completion",
+      "status": "passed"
+    },
+    {
+      "checkId": "design:application-route",
+      "status": "passed",
+      "applicationProfile": {
+        "applicationType": "simple-frontend",
+        "routeId": "compact",
+        "sha256": "sha256:93ba8d541b81a84849986c9de8356e754ac5182158afae7fc7d19093cff59603",
+        "path": ".expert-team/work-items/wi-t1000021/spec-state.json#/applicationProfile"
+      }
+    }
+  ]
+}
